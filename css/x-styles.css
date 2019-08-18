@@ -1,3 +1,15 @@
 * {
 	font-family: 'IBM Plex Sans', sans-serif;
 }
+
+.jumbotron {
+    background: url("../static/jumbotron-bg.png") no-repeat 0px 0px;
+    -webkit-background-size: contain;
+}
+
+.jumbotron1 {
+	background-color: #171717;
+	background-image: url("../static/Subtle-Prism.svg");
+	background-attachment: fixed;
+	background-size: cover;
+}
