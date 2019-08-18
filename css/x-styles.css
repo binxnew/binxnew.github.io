@@ -81,6 +81,7 @@ a:hover .front-card {
     color: #000;
     background-color: #F1C847;
     border-color: #F1CE60; /*set the color you want here*/
+    text-decoration: none;
 }
 .bottom-col {
 	margin: 20px 0;
