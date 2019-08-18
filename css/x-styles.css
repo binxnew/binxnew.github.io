@@ -1,6 +1,13 @@
 * {
 	font-family: 'IBM Plex Sans', sans-serif;
 }
+.jumbotron-headline {
+	font-size: 36px; 
+	color: #000; 
+	font-weight: bold; 
+	line-height: 40px; 
+	text-transform: none;
+}
 
 .jumbotron {
     background: url("../static/jumbotron-bg.png") no-repeat 0px 0px;
@@ -66,12 +73,34 @@ a:hover .front-card {
 }
 .binance-button {
 	background-color: #F1BC14;
+	border-color: #F1BC14;
 	color: #000;
 }
+
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
     color: #000;
     background-color: #F1C847;
     border-color: #F1CE60; /*set the color you want here*/
+}
+.bottom-col {
+	margin: 20px 0;
+}
+.bottom-menu {
+	font-size: 14px;
+}
+.bottom-menu-item {
+	margin: 5px 0;
+}
+.bottom-right-menu {
+	margin-bottom: 10px; 
+	font-size: 16px;
+}
+.bottom-menu a {
+	color: #848E9C;
+}
+.bottom-menu a:hover {
+	text-decoration: none;
+	color: #FFF;
 }
 
 
