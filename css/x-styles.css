@@ -55,9 +55,24 @@
 	opacity: 0.5;
   	filter: alpha(opacity=30);
 }
+.front-card {
+	padding: 20px 15px; 
+	margin: 10px 0;
+}
 
 a:hover .front-card {
 	text-decoration: none;
   	background-color: #EEE;
 }
+.binance-button {
+	background-color: #F1BC14;
+	color: #000;
 }
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #000;
+    background-color: #F1C847;
+    border-color: #F1CE60; /*set the color you want here*/
+}
+
+
+
