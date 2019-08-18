@@ -93,15 +93,17 @@
 	font-size: 56px;
 	color: #F0B90A;
 }
-.card {
+.home-card {
 	background-color: #E6E6E6;
+	padding: 20px 15px; 
+	margin: 10px 0;
 }
-.card-body {
+.home-card-body {
 	background-color: #FFF;
 	text-decoration: none;
 	color: #000;
 }
-.card-title {
+.home-card-title {
 	background-color: #3475BB; 
 	color: #FFF; 
 	padding: 5px 0; 
@@ -110,7 +112,7 @@
 	text-decoration: none; 
 	margin: 0;
 }
-.card-text {
+.home-card-text {
 	padding: 0px 5px;
 }
 
@@ -160,6 +162,20 @@ a:hover .front-card {
 .bottom-menu a:hover {
 	text-decoration: none;
 	color: #FFF;
+}
+.grow-card {
+	margin: 20px 0;
+}
+.grow-card-img {
+	height: 60px;
+}
+.grow-row {
+	margin: 0px;
+}
+.grow-card-div {
+	background-color: #1E1E1E; 
+	text-align: center; 
+	padding: 15px 20px;
 }
 
 
