@@ -32,6 +32,13 @@ templates['fellowship_fellows'] = template({"1":function(container,depth0,helper
     + ((stack1 = (helpers.everyNth || (depth0 && depth0.everyNth) || helpers.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.fellows_array : depth0),4,{"name":"everyNth","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\n</div>\n";
 },"useData":true});
+templates['fellowship_fellows_detail'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var helper;
+
+  return "<div class=\"fellowship-container\">\n\n	<div style=\"margin: 0;\">\n	  <nav aria-label=\"breadcrumb\" style=\"margin: 0 border: none; color: #FFF\">\n	    <ol class=\"breadcrumb\" style=\"margin:0px; color: #333\">\n	      <li class=\"breadcrumb-item\"><a href=\"./fellowship_fellows.html\">Binance X Fellowship Program</a></li>\n	      <li class=\"breadcrumb-item active\" aria-current=\"page\">"
+    + container.escapeExpression(((helper = (helper = helpers.name || (depth0 != null ? depth0.name : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),{"name":"name","hash":{},"data":data}) : helper)))
+    + "</li>\n	    </ol>\n	  </nav>\n	</div>\n\n</div>\n";
+},"useData":true});
 templates['fellowship_tabs'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
