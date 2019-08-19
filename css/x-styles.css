@@ -177,6 +177,34 @@ a:hover .front-card {
 	text-align: center; 
 	padding: 15px 20px;
 }
-
+ol.breadcrumb li a {
+  color: #C4C4C4;
+  text-decoration: none;
+}
+.breadcrumb-item.active {
+	color: #999;
+}
+ol.breadcrumb li a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+.fellow-nav > .active {
+	color: #333;
+	background-color: #FFF;
+}
+.fellow-nav  {
+	color: #333;
+	background-color: #AAA;
+	border: 1px solid #FFF;
+}
+.nav-item .fellow-nav {
+	border: 1px solid #CCC;
+	border-bottom: none;
+}
+.nav-item .fellow-nav:hover {
+	color: #333;
+	border: 1px solid #CCC;
+	border-bottom: none;
+}
 
 
