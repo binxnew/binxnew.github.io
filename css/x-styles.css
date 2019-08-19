@@ -190,7 +190,10 @@ ol.breadcrumb li a:hover {
 }
 .fellow-nav > .active {
 	color: #333;
-	background-color: #FFF;
+	background-color: #ecf0f1;
+}
+.nav-tabs .fellow-nav.active {
+	background-color: #ecf0f1;
 }
 .fellow-nav  {
 	color: #333;
@@ -231,5 +234,8 @@ ol.breadcrumb li a:hover {
 }
 .fellow-card {
 	margin: 10px 0;
+}
+.fellowship-container {
+	background-color: #ecf0f1;
 }
 
