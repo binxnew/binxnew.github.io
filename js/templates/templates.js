@@ -6,8 +6,29 @@ templates['fellowship_about'] = template({"compiler":[7,">= 4.0.0"],"main":funct
 templates['fellowship_apply'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     return "<div class=\"tab-content\" id=\"myTabContent\" style=\"background-color: #FFF\">\n\n  <div class=\"tab-pane fade show active justify-content-center\" id=\"home\" role=\"tabpanel\" aria-labelledby=\"home-tab\" style=\"text-align: center;\">\n\n    <div style=\"padding: 40px 0px; width: 70%; display: inline-block; text-align: left\">\n      <div style=\"font-size: 20px; font-weight: bold\">\n        Application\n      </div>\n      <div style=\"margin: 15px 0;\">\n        This program is open to candidates globally and fellows are admitted on a rolling basis.\n      </div>\n      <div style=\"margin: 15px 0;\">\n        Fill out the form below, and we will get in touch if there is interest.\n      </div>\n      <div style=\"font-size: 20px; margin-top: 25px; font-weight: bold; text-align: center\">\n        <a class=\"btn btn-primary binance-button\" href=\"https://forms.monday.com/forms/e4ad18734e3c7153b166b4374dd9a7e7\" target=\"_new\" role=\"button\">Apply</a>\n      </div>\n    </div>\n\n  </div>\n</div>";
 },"useData":true});
-templates['fellowship_fellows'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    return "";
+templates['fellowship_fellows'] = template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
+
+  return ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.isModZeroNotFirst : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.isModZero : depth0),{"name":"if","hash":{},"fn":container.program(4, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\n    <div class=\"col-sm-3\">\n      <div class=\"card fellow-card\" style=\"\">\n        <div class=\"fellow-card-div\">\n          <img src=\""
+    + alias4(((helper = (helper = helpers.img_url || (depth0 != null ? depth0.img_url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"img_url","hash":{},"data":data}) : helper)))
+    + "\" class=\"card-img-top fellow-card-img\">\n        </div>\n        <div class=\"card-body fellow-card-body\">\n          <h5 class=\"card-title fellow-card-title\">"
+    + alias4(((helper = (helper = helpers.name || (depth0 != null ? depth0.name : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"name","hash":{},"data":data}) : helper)))
+    + "</h5>\n          <p class=\"card-text fellow-card-text\">"
+    + alias4(((helper = (helper = helpers.project || (depth0 != null ? depth0.project : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"project","hash":{},"data":data}) : helper)))
+    + "</p>\n          <div style=\"text-align: center\">\n            <a href=\"./fellowship.html\" class=\"btn-sm btn-primary binance-button\" style=\"text-align: : center; font-size: 12px\">Details</a>\n          </div>\n        </div>\n      </div>\n    </div>\n\n"
+    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.isLast : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "");
+},"2":function(container,depth0,helpers,partials,data) {
+    return "    </div>\n";
+},"4":function(container,depth0,helpers,partials,data) {
+    return "    <div class=\"row grow-row\">\n";
+},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return "\n<div style=\"font-size: 20px; font-weight: bold; margin: 20px 0 -10px 40px\">\n    Binance X Fellows\n</div>\n\n<div class=\"container-fluid\" style=\"padding: 20px;\">\n\n"
+    + ((stack1 = (helpers.everyNth || (depth0 && depth0.everyNth) || helpers.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.fellows_array : depth0),4,{"name":"everyNth","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\n";
 },"useData":true});
 templates['fellowship_tabs'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;

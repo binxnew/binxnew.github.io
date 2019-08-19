@@ -24,6 +24,8 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.runtime.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
+    <script src="./js/helpers.js"></script>
     <script src="./js/templates/templates.js"></script>
 
     <title>Binance X - Developer Platform</title>
@@ -38,138 +40,6 @@
     <div id="fellowship_fellows_div"></div>
 
 
-    <div style="font-size: 20px; font-weight: bold; margin: 20px 0 -10px 40px">
-        Binance X Fellows
-    </div>
-
-    <div class="container-fluid" style="padding: 20px;">
-
-      <div class="row grow-row">
-        <div class="col-sm-3">
-          <div class="card fellow-card" style="">
-            <div class="fellow-card-div">
-              <img src="./static/fellows/IronBelly_Ivan.png" class="card-img-top fellow-card-img">
-            </div>
-            <div class="card-body fellow-card-body">
-              <h5 class="card-title fellow-card-title">Ivan Sorokin</h5>
-              <p class="card-text fellow-card-text">IronBelly Grin Wallet</p>
-              <div style="text-align: center">
-                <a href="./fellowship.html" class="btn-sm btn-primary binance-button" style="text-align: : center; font-size: 12px">Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-3">
-          <div class="card fellow-card" style="">
-            <div class="fellow-card-div">
-              <img src="./static/fellows/IronBelly_Ivan.png" class="card-img-top fellow-card-img">
-            </div>
-            <div class="card-body fellow-card-body">
-              <h5 class="card-title fellow-card-title">Ivan Sorokin</h5>
-              <p class="card-text fellow-card-text">IronBelly Grin Wallet</p>
-              <div style="text-align: center">
-                <a href="./fellowship.html" class="btn-sm btn-primary binance-button" style="text-align: : center; font-size: 12px">See Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-3">
-          <div class="card fellow-card" style="">
-            <div class="fellow-card-div">
-              <img src="./static/fellows/IronBelly_Ivan.png" class="card-img-top fellow-card-img">
-            </div>
-            <div class="card-body fellow-card-body">
-              <h5 class="card-title fellow-card-title">Ivan Sorokin</h5>
-              <p class="card-text fellow-card-text">IronBelly Grin Wallet</p>
-              <div style="text-align: center">
-                <a href="./fellowship.html" class="btn-sm btn-primary binance-button" style="text-align: : center; font-size: 12px">See Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-3">
-          <div class="card fellow-card" style="">
-            <div class="fellow-card-div">
-              <img src="./static/fellows/IronBelly_Ivan.png" class="card-img-top fellow-card-img">
-            </div>
-            <div class="card-body fellow-card-body">
-              <h5 class="card-title fellow-card-title">Ivan Sorokin</h5>
-              <p class="card-text fellow-card-text">IronBelly Grin Wallet</p>
-              <div style="text-align: center">
-                <a href="./fellowship.html" class="btn-sm btn-primary binance-button" style="text-align: : center; font-size: 12px">See Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="row grow-row">
-        <div class="col-sm-3">
-          <div class="card fellow-card" style="">
-            <div class="fellow-card-div">
-              <img src="./static/fellows/IronBelly_Ivan.png" class="card-img-top fellow-card-img">
-            </div>
-            <div class="card-body fellow-card-body">
-              <h5 class="card-title fellow-card-title">Ivan Sorokin</h5>
-              <p class="card-text fellow-card-text">IronBelly Grin Wallet</p>
-              <div style="text-align: center">
-                <a href="./fellowship.html" class="btn-sm btn-primary binance-button" style="text-align: : center; font-size: 12px">See Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-3">
-          <div class="card fellow-card" style="">
-            <div class="fellow-card-div">
-              <img src="./static/fellows/IronBelly_Ivan.png" class="card-img-top fellow-card-img">
-            </div>
-            <div class="card-body fellow-card-body">
-              <h5 class="card-title fellow-card-title">Ivan Sorokin</h5>
-              <p class="card-text fellow-card-text">IronBelly Grin Wallet</p>
-              <div style="text-align: center">
-                <a href="./fellowship.html" class="btn-sm btn-primary binance-button" style="text-align: : center; font-size: 12px">See Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-3">
-          <div class="card fellow-card" style="">
-            <div class="fellow-card-div">
-              <img src="./static/fellows/IronBelly_Ivan.png" class="card-img-top fellow-card-img">
-            </div>
-            <div class="card-body fellow-card-body">
-              <h5 class="card-title fellow-card-title">Ivan Sorokin</h5>
-              <p class="card-text fellow-card-text">IronBelly Grin Wallet</p>
-              <div style="text-align: center">
-                <a href="./fellowship.html" class="btn-sm btn-primary binance-button" style="text-align: : center; font-size: 12px">See Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-3">
-          <div class="card fellow-card" style="">
-            <div class="fellow-card-div">
-              <img src="./static/fellows/IronBelly_Ivan.png" class="card-img-top fellow-card-img">
-            </div>
-            <div class="card-body fellow-card-body">
-              <h5 class="card-title fellow-card-title">Ivan Sorokin</h5>
-              <p class="card-text fellow-card-text">IronBelly Grin Wallet</p>
-              <div style="text-align: center">
-                <a href="./fellowship.html" class="btn-sm btn-primary binance-button" style="text-align: : center; font-size: 12px">See Details</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-
     <div class="b-footer"></div>
 
     <!-- Optional JavaScript -->
@@ -179,16 +49,18 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <!-- BinanceX js -->
 
+    <script type="text/javascript" src="./js/fellows_list.js"></script>
     <script type="text/javascript">
       var nav_context = {grow_status: 'active'};
 
       var fellowship_tabs_context = {fellowship_fellows_status: 'active'};
 
       var fellowship_content_template = Handlebars.templates['fellowship_fellows'];
-      $("#fellowship_fellows_div").html(fellowship_content_template);
+      var fellowship_content_html = fellowship_content_template(fellowship_fellows_context);
+      $("#fellowship_fellows_div").html(fellowship_content_html);
     </script>
 
-    <script src="js/binancex.js"></script>
+    <script type="text/javascript" src="./js/binancex.js"></script>
 
   </body>
 </html>
