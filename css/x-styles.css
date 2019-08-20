@@ -238,4 +238,11 @@ ol.breadcrumb li a:hover {
 .fellowship-container {
 	background-color: #ecf0f1;
 }
+.fellow-detail-breadcrumb a {
+	color: #333;
+}
+.fellow-detail-breadcrumb a:hover {
+	color: #000;
+	text-decoration: none;
+}
 
