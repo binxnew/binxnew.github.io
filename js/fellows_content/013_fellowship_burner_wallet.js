@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Austin Griffith",
       youtube_url: 
-            "https://www.youtube.com/watch?v=16y2E3QlZSQ",
+            "https://www.youtube.com/embed/16y2E3QlZSQ",
       project_description:
             "The Burner Wallet is a quick web wallet used to move small amounts of crypto quickly. On page load an Ethereum keypair is automatically generated and used to sign transactions with an incredibly simple interface. Sending funds is as easy as a QR code scan. Burners are analogous to cash: quick and easy but less secure. You wouldn't stuff thousands of dollars in your pocket on the way out the door at night, don't trust a seed phrase in localstorage with more than you are willing to lose. Austin is making the Burner easier, faster, and more extensible. The most exciting thing to him is that the Burner is becoming a scaffolding for onboarding. It is a platform for apps and games where users get to interact with a blockchain immediately and then, as they become initiated, they work themselves out of the onion, learning more and more about decentralization and our ethos. We are looking forward to seeing tokens on the Binance Chain to be incorporated into Burner very soon!", 
       fellows: [

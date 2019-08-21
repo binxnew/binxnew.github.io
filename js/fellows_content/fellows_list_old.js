@@ -4,7 +4,7 @@ var fellowship_fellows_context = {
             name:'Austin Griffith', 
             img_url: './static/fellows/013_BurnerWallet_Austin.png', 
             project: 'Burner Wallet',
-            detail_url: './013_fellowship_burner_wallet.html'
+            detail_url: './013_fellowship_burner_wallet.js'
       }, 
       {
             name:'Alejandro Machado', 
