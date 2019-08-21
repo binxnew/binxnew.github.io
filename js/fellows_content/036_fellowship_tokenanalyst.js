@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Jai Prasad, Sid Shekhar",
       youtube_url: 
-            "https://www.youtube.com/watch?v=YF9CwT1Ojdw",
+            "https://www.youtube.com/embed/YF9CwT1Ojdw",
       project_description:
             "Traders want data/transparency into what’s happening on Binance Dex but it’s expensive and complex to understand this data.  This is because 1) Need to build performant ETL (extract, transform, load) data pipelines to get data from Binance Nodes, parse the data, and contextualize it, 2) Requires deep understanding of not only Binance Dex protocol but also Cosmos SDK and Tendermint, 3) Maintaining the data pipeline as new BEP’s are introduced requires ongoing support and maintenance.  The solution is a one place for all Binance Dex needs (targeting “prosumers” first and institutions later).  This includes: 1) Terminal to analyze, compare and visualize key-metrics of different tokens, 2) Real-time and historical order-book data, 3) API access for modeling and backtesting, 4) Trade execution enablement (via UI and SDK).",      
       fellows: [

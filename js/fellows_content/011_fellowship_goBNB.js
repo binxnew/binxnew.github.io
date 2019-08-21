@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Hammad Tariq",
       youtube_url: 
-            "https://www.youtube.com/watch?v=LHuFXPb0h_8",
+            "https://www.youtube.com/embed/LHuFXPb0h_8",
       project_description:
             "GoBNB is a smartphone app that uses Binance Chain (Binance DEX) to allow participating retailers to accept crypto currency payments in BNB and other supported BEP-2 tokens. GoBNB will integrate with major POS providers to fetch item and menu data automatically, that will allow a user to simply scan an item’s QR code to add the item in her cart that can be later paid for by the supported tokens. Users can also use the app to pay each other in a decentralized manner. Check out the source code for GoBNB here: https://github.com/gobnb", 
       fellows: [

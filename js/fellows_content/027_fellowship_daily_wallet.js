@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Alejandro Machado",
       youtube_url: 
-            "https://www.youtube.com/watch?v=Nz8p2MEd0B4&feature=youtu.be",
+            "https://www.youtube.com/embed/Nz8p2MEd0B4",
       project_description:
             "Daily Wallet is a minimal, easy-to-use open source wallet that supports a stable cryptocurrency pegged to the value of the US dollar.  Daily will be available on iOS and Android phones, and will be useful in areas where financial infrastructure is lacking or unfair.  The initial targeted users are people living under collapsing monetary systems, who have an immediate need to use this as an alternative to a dollar bank account in a more just jurisdiction.", 
       fellows: [

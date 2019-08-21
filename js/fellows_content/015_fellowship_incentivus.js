@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Mojtaba Tefag",
       youtube_url: 
-            "https://www.youtube.com/watch?v=Wthgl-JKFJU",
+            "https://www.youtube.com/embed/Wthgl-JKFJU",
       project_description:
             "Project Incentivus is a new research initiative aiming to explore convex optimization applications to the incentive layer of blockchain protocols.  Instead of searching for the optimal behavior given a specific protocol design, we can turn such arguments around to engineer user behaviors by setting the right incentives.  Currently, Binance DEX uses fixed fees and rates both for transactions and trades. While dynamic pricing has not been explored for any DEX in general, this research will investigate the possibility of in-protocol mechanisms which reduce the risk of relying on validators to set the rates and fees. This can potentially become the first step of engineering the incentive layer of different DEXs to make them even more autonomous and decentralized.", 
       fellows: [

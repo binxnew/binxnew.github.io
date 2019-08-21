@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "John-Paul Thorbjornsen, Cameron Stuart, Nadeem Shaikh",
       youtube_url: 
-            "https://www.youtube.com/watch?v=svEajhbM9CY",
+            "https://www.youtube.com/embed/svEajhbM9CY",
       project_description:
             "BEPTools are a set of modules built on Binance Chain allowing users to access user-friendly and powerful features to enhance their experience with Binance Chain. They will be able to easily batch send transactions, create and maintain multi-signatures and deploy trustless escrows in dApp marketplaces that can be hedged to external prices. They will also be able to make their own tokenised ecosystems with governance tools allowing them to stake, create elections and vote. A new on-chain liquidity pool module will allow anyone to stake BNB and other Binance Chain assets in pools enabling two-way instant asset swaps at market prices resistant to manipulation with always-on liquidity. Follow the progress of BEPTools here: https://beptools.org", 
       fellows: [

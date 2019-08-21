@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Nikita Kozlov, Alexandr Safonov",
       youtube_url: 
-            "https://www.youtube.com/watch?v=sAu3gh7DMsE",
+            "https://www.youtube.com/embed/sAu3gh7DMsE",
       project_description:
             "<p>BrowserBNB is MetaMask for the Binance Chain.  Some key functions that will be implemented are secret creation/import, address from secrets, lock/unlock secrets with password, set encrypted secrets to local storage, get balance from account, multiple account support, etc. Key infrastructures include:  background.js and sessions support, TS wrapper over BNB JS SDK, send to address, state service, BIP44 derivation, etc. Please find the source code and more information: https://github.com/button-tech/BrowserBNB.</p><p>BNBTextWallet is an open source wallet inside Discord. This project was a bounty winner from EthNewYork 2019.  Discord is one of the most popular messengers. What is more important - gamers use it. With access to crypto assets the users can combine games crypto collectibles and trade it. This wallet can be customizable and provide direct access to Dapps for different Discord communities.  This wallet has been integrated with Binance Dex with order book and BNB token.  Matic network was integrated and one can ETH by ENS with Infura.  Chainlink API were used for exchange rates. Check out the project github here: https://github.com/button-tech/BNBTextWallet</p>", 
       fellows: [
