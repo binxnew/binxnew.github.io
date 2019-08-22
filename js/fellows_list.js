@@ -134,22 +134,262 @@ var fellowship_fellows_context = {
             detail_url: './024_fellowship_metacartel.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Patrick McCorry', 
+            img_url: './static/fellows/025_PISA_Patrick.png', 
+            project: 'PISA',
+            detail_url: './025_fellowship_pisa.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Sergi Delgado Segura', 
+            img_url: './static/fellows/025_PISA_Sergi.png', 
+            project: 'PISA',
+            detail_url: './025_fellowship_pisa.html'
+      }, 
+      {
+            name:'Jeremy Rubin', 
+            img_url: './static/fellows/033_OP_SECURETHEBAG_JeremyRubin.png', 
+            project: 'OP_SECURETHEBAG',
+            detail_url: './033_fellowship_op_securethebag.html'
+      }, 
+      {
+            name:'James Prestwich', 
+            img_url: './static/fellows/034_Summa_James.png', 
+            project: 'Summa',
+            detail_url: './034_fellowship_summa.html'
+      }, 
+      {
+            name:'Sebastian Bürgel', 
+            img_url: './static/fellows/002_HOPER_SCBurergel.png', 
+            project: 'HOPR',
+            detail_url: './002_fellowship_hopr.html'
+      }, 
+      {
+            name:'Jasper van der Maarel', 
+            img_url: './static/fellows/006_GrinSwap_Jasper.png', 
+            project: 'GrinSwap',
+            detail_url: './006_fellowship_grin_swap.html'
       }, 
       {
             name:'Ivan Sorokin', 
             img_url: './static/fellows/IronBelly_Ivan.png', 
             project: 'IronBelly Grin Wallet',
-            detail_url: './fellowship_ironbelly.html'
+            detail_url: './001_fellowship_ironbelly.html'
+      }, 
+      {
+            name:'Dominik Harz', 
+            img_url: './static/fellows/039_CollateralEfficiency_DominikHarz.png', 
+            project: 'Collateral Efficiency',
+            detail_url: './035_fellowship_dominik_harz.html'
+      }, 
+      {
+            name:'Zak Cole', 
+            img_url: './static/fellows/017_DEXter_John_Beppu.png', 
+            project: 'Dexter',
+            detail_url: './017_fellowship_dexter.html'
+      }, 
+      {
+            name:'John Beppu', 
+            img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
+            project: 'Dexter',
+            detail_url: './017_fellowship_dexter.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
       }, 
 
 
