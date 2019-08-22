@@ -110,28 +110,28 @@ var fellowship_fellows_context = {
             detail_url: './029_fellowship_cambrian_research.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Sarah Meiklejohn', 
+            img_url: './static/fellows/008_TradeScope_SarahMeiklejohn.png', 
+            project: 'TradeScope',
+            detail_url: './008_fellowship_tradescope.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Vasilios Mavroudis', 
+            img_url: './static/fellows/008_TradeScope_VasiliosMavroudis.png', 
+            project: 'TradeScope',
+            detail_url: './008_fellowship_tradescope.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Alexey Miroshkin (Hashmap)', 
+            img_url: './static/fellows/004.KnockturnAllee-AlexeyMiroshkin.png', 
+            project: 'Knockturn Allee',
+            detail_url: './004_fellowship_knockturn_allee.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Peter Pan', 
+            img_url: './static/fellows/024_MetaCartel_Peter.png', 
+            project: 'MetaCartel',
+            detail_url: './024_fellowship_metacartel.html'
       }, 
       {
             name:'', 
