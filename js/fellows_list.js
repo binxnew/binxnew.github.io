@@ -67,11 +67,92 @@ var fellowship_fellows_context = {
             detail_url: './036_fellowship_tokenanalyst.html'
       }, 
       {
+            name:'Rai Yang', 
+            img_url: './static/fellows/020_Raven_Rai_Yang.png', 
+            project: 'Raven',
+            detail_url: './020_fellowship_raven.html'
+      }, 
+      {
+            name:'Neal Roessler', 
+            img_url: './static/fellows/038_Tokenfolio_Neal.png', 
+            project: 'Tokenfolio',
+            detail_url: './038_fellowship_tokenfolio.html'
+      },
+      {
+            name:'Jaeho Lee', 
+            img_url: './static/fellows/023_Decon_jaeho_lee.png', 
+            project: 'Decon',
+            detail_url: './023_fellowship_decon.html'
+      }, 
+      {
+            name:'Jeffrey Lim', 
+            img_url: './static/fellows/023_Decon_jeff_lim.png', 
+            project: 'Decon',
+            detail_url: './023_fellowship_decon.html'
+      }, 
+
+      {
+            name:'Daniel Lehnberg', 
+            img_url: './static/fellows/014_Wallet713_DanielLehnberg.png', 
+            project: 'Wallet 713',
+            detail_url: './014_fellowship_wallet713.html'
+      }, 
+      {
+            name:'Hadrien Croubois', 
+            img_url: './static/fellows/003_KitsuneWallet_HadrienCroubois.png', 
+            project: 'Kitsune Wallet',
+            detail_url: './003_fellowship_kitsune_wallet.html'
+      }, 
+      {
+            name:'Ariah Klages', 
+            img_url: './static/fellows/029_CambrianResearch_Ariah_Klages-Mundt.png', 
+            project: 'Cambrian Research',
+            detail_url: './029_fellowship_cambrian_research.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
+            name:'', 
+            img_url: './static/fellows/.png', 
+            project: '',
+            detail_url: './.html'
+      }, 
+      {
             name:'Ivan Sorokin', 
             img_url: './static/fellows/IronBelly_Ivan.png', 
             project: 'IronBelly Grin Wallet',
             detail_url: './fellowship_ironbelly.html'
       }, 
+
+
 
       ]
             
