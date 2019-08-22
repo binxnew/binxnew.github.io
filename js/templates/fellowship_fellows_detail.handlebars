@@ -1,18 +1,20 @@
-<div class="container-fluid fellowship-container" style="justify-content: center; padding: 40px 50px">
+<div class="container-fluid fellowship-container justify-content-center" style="	background-color: #ecf0f1;
+">
 
-	<div class="fellow-detail-breadcrumb" style="margin:0 50px;">
-	  <a href="./fellowship_fellows.html"><i class="fas fa-chevron-left"></i>&nbsp;Back</a>
-	</div>
+	<div class="container" style="width: 90%; padding: 0px 0 40px 0">
 
-	<div style="margin: 5px 50px 20px 50px">
+		<div class="fellow-detail-breadcrumb">
+		  <a href="./fellowship_fellows.html"><i class="fas fa-chevron-left"></i>&nbsp;Back</a>
+		</div>
+
 		<div>
 			<div style="font-size: 25px; font-weight: 700">{{project_name}}</div> 
 			<div style="font-size: 18px;">by {{fellow_names}}</div>
 		</div>
 
-		<div style="text-align: center; justify-content: center; width: 100%;">
+		<div class="justify-content-center" style="text-align: center; padding-top: 20px">
 
-			<div style="margin: 20px 0;">
+			<div class="justify-content-center" style="text-align: center; padding: 0 40px">
 				<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='{{youtube_url}}' frameborder='0' allowfullscreen></iframe></div>
 			</div>
 		</div>
@@ -28,9 +30,11 @@
 		{{#each fellows}}
 		  <div style="margin-top:5px; font-weight: bold; font-style: italic">{{fellow_name}}</div>
 		  <div style="margin-top:5px">{{fellow_bio}}</div>
-		  <p class='b-para'>
+		  <div class='b-para'>
 			Follow {{fellow_name}} at: <a href="{{social_media_url}}" target="_new">{{social_media_handle}}</a>
+		  </div>
 		{{/each}}
+
 	</div>
 
 </div>

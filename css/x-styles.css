@@ -248,7 +248,10 @@ ol.breadcrumb li a:hover {
 	margin: 10px 0;
 }
 .fellowship-container {
-	background-color: #ecf0f1;
+	padding-top: 20px;
+}
+.fellow-detail-breadcrumb {
+	margin-bottom: 10px;
 }
 .fellow-detail-breadcrumb a {
 	color: #333;
@@ -319,6 +322,10 @@ ol.breadcrumb li a:hover {
 	font-size: 18px; 
 	color: #AAA; 
 	margin: 15px 0 40px
+}
+.carousel-item a {
+  display: block;
+  width:100%;
 }
 
 
