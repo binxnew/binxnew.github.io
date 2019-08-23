@@ -218,16 +218,16 @@ var fellowship_fellows_context = {
             detail_url: './016_fellowship_raxx_city.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Alex Rusnak', 
+            img_url: './static/fellows/021_ProximiaOne_Alex.png', 
+            project: 'Proxima',
+            detail_url: './021_fellowship_proxima.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Chase Smith', 
+            img_url: './static/fellows/021_ProximiaOne_Chase.png', 
+            project: 'Proxima',
+            detail_url: './021_fellowship_proxima.html'
       }, 
       {
             name:'', 
