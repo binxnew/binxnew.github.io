@@ -1,5 +1,8 @@
 (function() {
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
+templates['collab_jumbotron'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"container-fluid collaborate-jumbotron justify-content-center\">\n  <div style=\"padding: 40px 40px; text-align: center\">\n    <div class=\"jumbotron-headline\">\n      Share. Discuss. Connect.\n    </div>\n    <div class=\"jumbotron-sub-headline\" style=\"margin: 20px 40px 30px 40px\">\n      Find opportunities to work with us and others in the ecosystem.\n    </div>\n  </div>\n</div>";
+},"useData":true});
 templates['collab_tabs'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 

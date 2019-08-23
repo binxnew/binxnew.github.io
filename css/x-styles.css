@@ -209,11 +209,11 @@ ol.breadcrumb li a:hover {
 }
 .fellow-nav  {
 	color: #333;
-	background-color: #AAA;
-	border: 1px solid #FFF;
+	background-color: #CCC;
+	border: 1px solid #666;
 }
 .nav-item .fellow-nav {
-	border: 1px solid #CCC;
+	border: 1px solid #888;
 	border-bottom: none;
 }
 .nav-item .fellow-nav:hover {
