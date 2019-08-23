@@ -3,7 +3,7 @@
 templates['collab_tabs'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
-  return "<div style=\"background-color: #FFF; margin-top: 15px; padding:0\">\n  <ul class=\"nav nav-tabs justify-content-center\" id=\"myTab\" role=\"tablist\" style=\"text-align: center;\">\n    <li class=\"nav-item\">\n      <a class=\"nav-link fellow-nav "
+  return "<div style=\"background-color: #011B38; padding-top: 15px;\">\n  <ul class=\"nav nav-tabs justify-content-center\" id=\"myTab\" role=\"tablist\" style=\"text-align: center;\">\n    <li class=\"nav-item\">\n      <a class=\"nav-link fellow-nav "
     + alias4(((helper = (helper = helpers.collab_discussions_status || (depth0 != null ? depth0.collab_discussions_status : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"collab_discussions_status","hash":{},"data":data}) : helper)))
     + "\" href=\"./collaborate.html\">Discussions</a>\n    </li>\n    <li class=\"nav-item\">\n      <a class=\"nav-link fellow-nav "
     + alias4(((helper = (helper = helpers.collab_events_status || (depth0 != null ? depth0.collab_events_status : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"collab_events_status","hash":{},"data":data}) : helper)))
