@@ -194,28 +194,28 @@ var fellowship_fellows_context = {
             detail_url: './017_fellowship_dexter.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'James Young', 
+            img_url: './static/fellows/031_Abridged_James_Young.png', 
+            project: 'Abridged',
+            detail_url: './031_fellowship_abridged.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Eric Chung', 
+            img_url: './static/fellows/031_Abridged_Eric_Chung.png', 
+            project: 'Abridged',
+            detail_url: './031_fellowship_abridged.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'James Duncan', 
+            img_url: './static/fellows/031_Abridged_James_Duncan.png', 
+            project: 'Abridged',
+            detail_url: './031_fellowship_abridged.html'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            detail_url: './.html'
+            name:'Casmir Patterson', 
+            img_url: './static/fellows/016_RaxxCity_Casmir.png', 
+            project: 'Raxx City',
+            detail_url: './016_fellowship_raxx_city.html'
       }, 
       {
             name:'', 
