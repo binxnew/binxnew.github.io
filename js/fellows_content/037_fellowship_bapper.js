@@ -8,7 +8,7 @@ var fellowship_fellow_detail_context = {
       project_description:
             "Bapper is a bridge that allows you to use decentralized financial products securely in your browser today. Our mission is to make decentralized finance as easy-to-access for as many people as possible.", 
       fellows: [
-            {
+      {
             fellow_name:
                   "Han Hua",
             fellow_bio: 
@@ -18,7 +18,7 @@ var fellowship_fellow_detail_context = {
             social_media_handle:
                   "@hhua_",
             },
-            {
+      {
             fellow_name:
                   "Zeqing Guo",
             fellow_bio: 
