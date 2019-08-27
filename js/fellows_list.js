@@ -302,16 +302,16 @@ var fellowship_fellows_context = {
             data_url: ''
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
+            name:'Andrej Bencic', 
+            img_url: './static/fellows/032_Chainup_Andrej_Bencic.png', 
+            project: 'BlockPropeller',
+            data_url: '032_fellowship_block_propeller'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
+            name:'Vukasin Vukasin', 
+            img_url: './static/fellows/032_Chainup_Vukasin_Vukoje.png', 
+            project: 'BlockPropeller',
+            data_url: '032_fellowship_block_propeller'
       }, 
       {
             name:'', 
