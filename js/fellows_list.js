@@ -7,10 +7,16 @@ var fellowship_fellows_context = {
             data_url: '027_fellowship_daily_wallet'
       }, 
       {
+            name:'Alex Ramsey', 
+            img_url: './static/fellows/022_Snap_AlexRamsey.png', 
+            project: 'Snap',
+            data_url: './022_fellowship_snap'
+      }, 
+      {
             name:'Alex Rusnak', 
             img_url: './static/fellows/021_ProximiaOne_Alex.png', 
             project: 'Proxima',
-            data_url: './021_fellowship_proxima'
+            data_url: '021_fellowship_proxima'
       },
       {
             name:'Alexandr Safonov', 
@@ -22,19 +28,19 @@ var fellowship_fellows_context = {
             name:'Alexey Miroshkin (Hashmap)', 
             img_url: './static/fellows/004.KnockturnAllee-AlexeyMiroshkin.png', 
             project: 'Knockturn Allee',
-            data_url: './004_fellowship_knockturn_allee'
+            data_url: '004_fellowship_knockturn_allee'
       }, 
       {
             name:'Ariah Klages', 
             img_url: './static/fellows/029_CambrianResearch_Ariah_Klages-Mundt.png', 
             project: 'Cambrian Research',
-            data_url: './029_fellowship_cambrian_research'
+            data_url: '029_fellowship_cambrian_research'
       }, 
       {
             name:'Austin Griffith', 
             img_url: './static/fellows/013_BurnerWallet_Austin.png', 
             project: 'Burner Wallet',
-            data_url: './013_fellowship_burner_wallet'
+            data_url: '013_fellowship_burner_wallet'
       },
       {
             name:'Cameron Stuart', 
@@ -46,49 +52,73 @@ var fellowship_fellows_context = {
             name:'Casmir Patterson', 
             img_url: './static/fellows/016_RaxxCity_Casmir.png', 
             project: 'Raxx City',
-            data_url: './016_fellowship_raxx_city'
+            data_url: '016_fellowship_raxx_city'
       }, 
       {
             name:'Chase Smith', 
             img_url: './static/fellows/021_ProximiaOne_Chase.png', 
             project: 'Proxima',
-            data_url: './021_fellowship_proxima'
+            data_url: '021_fellowship_proxima'
       },
+      {
+            name:'Chris Hughes', 
+            img_url: './static/fellows/012_CAPeasy_Chris_Hughes.png', 
+            project: 'CAPeasy',
+            data_url: '012_fellowship_capeasy'
+      }, 
       {
             name:'Daniel Lehnberg', 
             img_url: './static/fellows/014_Wallet713_DanielLehnberg.png', 
             project: 'Wallet 713',
-            data_url: './014_fellowship_wallet713'
+            data_url: '014_fellowship_wallet713'
       },
+      {
+            name:'Deepesh Chaudhari', 
+            img_url: './static/fellows/028_Chasm_Deepesh.png', 
+            project: 'CHASM',
+            data_url: '028_fellowship_chasm'
+      }, 
       {
             name:'Dominik Harz', 
             img_url: './static/fellows/039_CollateralEfficiency_DominikHarz.png', 
             project: 'Collateral Efficiency',
-            data_url: './035_fellowship_dominik_harz'
+            data_url: '035_fellowship_dominik_harz'
       }, 
       {
             name:'Eric Chung', 
             img_url: './static/fellows/031_Abridged_Eric_Chung.png', 
             project: 'Abridged',
-            data_url: './031_fellowship_abridged'
+            data_url: '031_fellowship_abridged'
       },
+      {
+            name:'Faisal Amir', 
+            img_url: './static/fellows/030_Enable_FaisalAmir.png', 
+            project: 'Enable',
+            data_url: '030_fellowship_enable'
+      }, 
+      {
+            name:'Franco Zeoli', 
+            img_url: './static/fellows/007_Buidler_Franco Zeoli.png', 
+            project: 'Buidler',
+            data_url: '007_fellowship_buidler'
+      }, 
       {
             name:'Hadrien Croubois', 
             img_url: './static/fellows/003_KitsuneWallet_HadrienCroubois.png', 
             project: 'Kitsune Wallet',
-            data_url: './003_fellowship_kitsune_wallet'
+            data_url: '003_fellowship_kitsune_wallet'
       }, 
       {
             name:'Hammad Tariq', 
             img_url: './static/fellows/011_GoBNB_Hammad.png', 
             project: 'GoBNB',
-            data_url: './011_fellowship_goBNB'
+            data_url: '011_fellowship_goBNB'
       }, 
       {
             name:'Ivan Sorokin', 
             img_url: './static/fellows/IronBelly_Ivan.png', 
             project: 'IronBelly Grin Wallet',
-            data_url: './001_fellowship_ironbelly'
+            data_url: '001_fellowship_ironbelly'
       }, 
       {
             name:'Jaeho Lee', 
@@ -100,31 +130,31 @@ var fellowship_fellows_context = {
             name:'Jai Prasad', 
             img_url: './static/fellows/036_TokenAnalyst_Jai.png', 
             project: 'TokenAnalyst',
-            data_url: './036_fellowship_tokenanalyst'
+            data_url: '036_fellowship_tokenanalyst'
       }, 
       {
             name:'James Duncan', 
             img_url: './static/fellows/031_Abridged_James_Duncan.png', 
             project: 'Abridged',
-            data_url: './031_fellowship_abridged'
+            data_url: '031_fellowship_abridged'
       }, 
       {
             name:'James Prestwich', 
             img_url: './static/fellows/034_Summa_James.png', 
             project: 'Summa',
-            data_url: './034_fellowship_summa'
+            data_url: '034_fellowship_summa'
       }, 
       {
             name:'James Young', 
             img_url: './static/fellows/031_Abridged_James_Young.png', 
             project: 'Abridged',
-            data_url: './031_fellowship_abridged'
+            data_url: '031_fellowship_abridged'
       }, 
       {
             name:'Jasper van der Maarel', 
             img_url: './static/fellows/006_GrinSwap_Jasper.png', 
             project: 'GrinSwap',
-            data_url: './006_fellowship_grin_swap'
+            data_url: '006_fellowship_grin_swap'
       }, 
       {
             name:'Jeffrey Lim', 
@@ -136,19 +166,25 @@ var fellowship_fellows_context = {
             name:'Jeremy Rubin', 
             img_url: './static/fellows/033_OP_SECURETHEBAG_JeremyRubin.png', 
             project: 'OP_SECURETHEBAG',
-            data_url: './033_fellowship_op_securethebag'
+            data_url: '033_fellowship_op_securethebag'
       }, 
       {
             name:'John Beppu', 
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
-            data_url: './017_fellowship_dexter'
+            data_url: '017_fellowship_dexter'
       }, 
       {
             name:'John-Paul Thorbjornsen', 
             img_url: './static/fellows/019_BNBTools_JohnPaul-Thorbjornsen.png', 
             project: 'BNBTools',
-            data_url: './019_fellowship_BNBtools'
+            data_url: '019_fellowship_BNBtools'
+      }, 
+      {
+            name:'Jonathan Dunne', 
+            img_url: './static/fellows/022_Snap_JonathanDunne.png', 
+            project: 'Snap',
+            data_url: './022_fellowship_snap'
       }, 
       {
             name:'Mojtaba Tefagh', 
@@ -175,6 +211,12 @@ var fellowship_fellows_context = {
             data_url: '018_fellowship_browserBNB_BNBTextWallet'
       }, 
       {
+            name:'Patricio Palladino', 
+            img_url: './static/fellows/007_Buidler_Patricio Palladino.png', 
+            project: 'Buidler',
+            data_url: '007_fellowship_buidler'
+      }, 
+      {
             name:'Patrick McCorry', 
             img_url: './static/fellows/025_PISA_Patrick.png', 
             project: 'PISA',
@@ -196,13 +238,13 @@ var fellowship_fellows_context = {
             name:'Ravid Rosen-Tai', 
             img_url: './static/fellows/009_GrinBox_Ravidio.png', 
             project: 'GrinBox',
-            detail_url: './009_fellowship_grinbox.html'
+            data_url: '009_fellowship_grinbox'
       }, 
       {
             name:'Sarah Meiklejohn', 
             img_url: './static/fellows/008_TradeScope_SarahMeiklejohn.png', 
             project: 'TradeScope',
-            data_url: './008_fellowship_tradescope'
+            data_url: '008_fellowship_tradescope'
       },
       {
             name:'Sergi Delgado Segura', 
@@ -224,10 +266,22 @@ var fellowship_fellows_context = {
             data_url: '002_fellowship_hopr'
       }, 
       {
+            name:'Tom Nash', 
+            img_url: './static/fellows/022_Snap_TomNash.png', 
+            project: 'Snap',
+            data_url: './022_fellowship_snap'
+      }, 
+      {
+            name:'Thomas Spofford', 
+            img_url: './static/fellows/030_Enable_ThomasSpofford.png', 
+            project: 'Enable',
+            data_url: '030_fellowship_enable'
+     }, 
+     {
             name:'Vasilios Mavroudis', 
             img_url: './static/fellows/008_TradeScope_VasiliosMavroudis.png', 
             project: 'TradeScope',
-            data_url: './008_fellowship_tradescope'
+            data_url: '008_fellowship_tradescope'
       },
       {
             name:'Zak Cole', 
@@ -239,121 +293,67 @@ var fellowship_fellows_context = {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
