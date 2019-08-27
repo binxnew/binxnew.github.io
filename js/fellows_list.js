@@ -91,6 +91,12 @@ var fellowship_fellows_context = {
             data_url: '031_fellowship_abridged'
       },
       {
+            name:'Faisal Amir', 
+            img_url: './static/fellows/030_Enable_FaisalAmir.png', 
+            project: 'Enable',
+            data_url: '030_fellowship_enable'
+      }, 
+      {
             name:'Franco Zeoli', 
             img_url: './static/fellows/007_Buidler_Franco Zeoli.png', 
             project: 'Buidler',
@@ -266,6 +272,12 @@ var fellowship_fellows_context = {
             data_url: './022_fellowship_snap'
       }, 
       {
+            name:'Thomas Spofford', 
+            img_url: './static/fellows/030_Enable_ ThomasSpofford.png', 
+            project: 'Enable',
+            data_url: '030_fellowship_enable'
+     }, 
+     {
             name:'Vasilios Mavroudis', 
             img_url: './static/fellows/008_TradeScope_VasiliosMavroudis.png', 
             project: 'TradeScope',
@@ -276,18 +288,6 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
             data_url: '017_fellowship_dexter'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
       }, 
       {
             name:'', 
