@@ -31,6 +31,12 @@ var fellowship_fellows_context = {
             data_url: '004_fellowship_knockturn_allee'
       }, 
       {
+            name:'Andrej Bencic', 
+            img_url: './static/fellows/032_Chainup_Andrej_Bencic.png', 
+            project: 'BlockPropeller',
+            data_url: '032_fellowship_block_propeller'
+      },       
+      {
             name:'Ariah Klages', 
             img_url: './static/fellows/029_CambrianResearch_Ariah_Klages-Mundt.png', 
             project: 'Cambrian Research',
@@ -284,6 +290,12 @@ var fellowship_fellows_context = {
             data_url: '008_fellowship_tradescope'
       },
       {
+            name:'Vukasin Vukasin', 
+            img_url: './static/fellows/032_Chainup_Vukasin_Vukoje.png', 
+            project: 'BlockPropeller',
+            data_url: '032_fellowship_block_propeller'
+      }, 
+      {
             name:'Zak Cole', 
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
@@ -300,18 +312,6 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/.png', 
             project: '',
             data_url: ''
-      }, 
-      {
-            name:'Andrej Bencic', 
-            img_url: './static/fellows/032_Chainup_Andrej_Bencic.png', 
-            project: 'BlockPropeller',
-            data_url: '032_fellowship_block_propeller'
-      }, 
-      {
-            name:'Vukasin Vukasin', 
-            img_url: './static/fellows/032_Chainup_Vukasin_Vukoje.png', 
-            project: 'BlockPropeller',
-            data_url: '032_fellowship_block_propeller'
       }, 
       {
             name:'', 
