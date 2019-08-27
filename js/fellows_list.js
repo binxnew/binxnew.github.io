@@ -7,6 +7,12 @@ var fellowship_fellows_context = {
             data_url: '027_fellowship_daily_wallet'
       }, 
       {
+            name:'Alex Ramsey', 
+            img_url: './static/fellows/022_Snap_AlexRamsey.png', 
+            project: 'Snap',
+            data_url: './022_fellowship_snap'
+      }, 
+      {
             name:'Alex Rusnak', 
             img_url: './static/fellows/021_ProximiaOne_Alex.png', 
             project: 'Proxima',
@@ -151,6 +157,12 @@ var fellowship_fellows_context = {
             data_url: '019_fellowship_BNBtools'
       }, 
       {
+            name:'Jonathan Dunne', 
+            img_url: './static/fellows/022_Snap_JonathanDunne.png', 
+            project: 'Snap',
+            data_url: './022_fellowship_snap'
+      }, 
+      {
             name:'Mojtaba Tefagh', 
             img_url: './static/fellows/015_Incentivus_Mojtaba.png', 
             project: 'Project Incentivus',
@@ -224,6 +236,12 @@ var fellowship_fellows_context = {
             data_url: '002_fellowship_hopr'
       }, 
       {
+            name:'Tom Nash', 
+            img_url: './static/fellows/022_Snap_TomNash.png', 
+            project: 'Snap',
+            data_url: './022_fellowship_snap'
+      }, 
+      {
             name:'Vasilios Mavroudis', 
             img_url: './static/fellows/008_TradeScope_VasiliosMavroudis.png', 
             project: 'TradeScope',
@@ -234,24 +252,6 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
             data_url: '017_fellowship_dexter'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
       }, 
       {
             name:'', 
