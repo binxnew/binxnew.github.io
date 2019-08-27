@@ -272,6 +272,12 @@ var fellowship_fellows_context = {
             data_url: '002_fellowship_hopr'
       }, 
       {
+            name:'Ting Ting (Tina) Lee', 
+            img_url: './static/fellows/005_TSSKit_Tina.png', 
+            project: 'TSSKit',
+            data_url: '005_fellowship_tsskit'
+      }, 
+      {
             name:'Tom Nash', 
             img_url: './static/fellows/022_Snap_TomNash.png', 
             project: 'Snap',
@@ -296,22 +302,16 @@ var fellowship_fellows_context = {
             data_url: '032_fellowship_block_propeller'
       }, 
       {
+            name:'Yao-Chieh (Jeff) Hu', 
+            img_url: './static/fellows/005_TSSKit_Jeff.png', 
+            project: 'TSSKit',
+            data_url: '005_fellowship_tsskit'
+      }, 
+      {
             name:'Zak Cole', 
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
             data_url: '017_fellowship_dexter'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
       }, 
       {
             name:'', 
