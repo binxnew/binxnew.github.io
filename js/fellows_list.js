@@ -131,7 +131,7 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/037_Bapper_Han.png', 
             project: 'Bapper',
             data_url: '037_fellowship_bapper'
-      },       
+      },
       {
             name:'Ivan Sorokin', 
             img_url: './static/fellows/IronBelly_Ivan.png', 
