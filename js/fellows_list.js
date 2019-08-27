@@ -127,6 +127,12 @@ var fellowship_fellows_context = {
             data_url: '011_fellowship_goBNB'
       }, 
       {
+            name:'Han Hua', 
+            img_url: './static/fellows/037_Bapper_Han.png', 
+            project: 'Bapper',
+            data_url: '037_fellowship_bapper'
+      },       
+      {
             name:'Ivan Sorokin', 
             img_url: './static/fellows/IronBelly_Ivan.png', 
             project: 'IronBelly Grin Wallet',
@@ -332,16 +338,10 @@ var fellowship_fellows_context = {
             data_url: '017_fellowship_dexter'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
+            name:'Zeqing Guo', 
+            img_url: './static/fellows/037_Bapper_Zeqing.png', 
+            project: 'Bapper',
+            data_url: '037_fellowship_bapper'
       }, 
       {
             name:'', 
