@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Vukasin Vukoje, Andrej Bencic",
       youtube_url: 
-            "",
+            "https://www.youtube.com/embed/T5bkXKNd1MM",
       project_description:
             "BlockPropeller gives you the ability to quickly provision Binance Chain nodes on your favorite cloud provider. Alloy provides you with a point and click interface so you can get started developing on the Binance chain within minutes.  What is special about Alloy is that while we provision and manage your infrastructure we also give you the ability to opt out from using Alloy and still keep complete ownership over your infrastructure.", 
       fellows: [
