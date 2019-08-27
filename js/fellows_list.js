@@ -86,7 +86,7 @@ var fellowship_fellows_context = {
       }, 
       {
             name:'Dominik Harz', 
-            img_url: './static/fellows/039_CollateralEfficiency_DominikHarz.png', 
+            img_url: './static/fellows/035_CollateralEfficiency_DominikHarz.png', 
             project: 'Collateral Efficiency',
             data_url: '035_fellowship_dominik_harz'
       },
@@ -199,6 +199,12 @@ var fellowship_fellows_context = {
             data_url: './022_fellowship_snap'
       }, 
       {
+            name:'Micheal Zargham', 
+            img_url: './static/fellows/039_CommonsStack_Michael_Zargham.png', 
+            project: 'Commons Stack',
+            data_url: '039_fellowship_commons_stack'
+      }, 
+      {
             name:'Mojtaba Tefagh', 
             img_url: './static/fellows/015_Incentivus_Mojtaba.png', 
             project: 'Project Incentivus',
@@ -259,6 +265,12 @@ var fellowship_fellows_context = {
             data_url: '008_fellowship_tradescope'
       },
       {
+            name:'Sebastian Bürgel', 
+            img_url: './static/fellows/002_HOPER_SCBurergel.png', 
+            project: 'HOPR',
+            data_url: '002_fellowship_hopr'
+      }, 
+      {
             name:'Sergi Delgado Segura', 
             img_url: './static/fellows/025_PISA_Sergi.png', 
             project: 'PISA',
@@ -272,10 +284,10 @@ var fellowship_fellows_context = {
             data_url: '036_fellowship_tokenanalyst'
       }, 
       {
-            name:'Sebastian Bürgel', 
-            img_url: './static/fellows/002_HOPER_SCBurergel.png', 
-            project: 'HOPR',
-            data_url: '002_fellowship_hopr'
+            name:'Stefaan Ponnet', 
+            img_url: './static/fellows/039_CommonsStack_Sponnet.png', 
+            project: 'Commons Stack',
+            data_url: '039_fellowship_commons_stack'
       }, 
       {
             name:'Ting Ting (Tina) Lee', 
@@ -318,18 +330,6 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
             data_url: '017_fellowship_dexter'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
       }, 
       {
             name:'', 
