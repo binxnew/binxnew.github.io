@@ -12,7 +12,7 @@ var fellowship_fellow_detail_context = {
             fellow_name:
                   "Han Hua",
             fellow_bio: 
-                  "Han is a blockchain engineer working at Google. He worked as an engineer building highly scalable distributed applications at several companies before joining Google. Han picked up Bitcoin in 2013 and has been interested in blockchain ever since. His primary interests and research are on Bitcoin & Lightning Network, Ethereum, privacy tokens, tokenomics and money in emerging markets. Hans graduated in Software Engineering degree from Fudan University (12’) and from Carnegie Mellon University (13’)."
+                  "Han is a blockchain engineer working at Google. He worked as an engineer building highly scalable distributed applications at several companies before joining Google. Han picked up Bitcoin in 2013 and has been interested in blockchain ever since. His primary interests and research are on Bitcoin & Lightning Network, Ethereum, privacy tokens, tokenomics and money in emerging markets. Hans graduated in Software Engineering degree from Fudan University (2012) and from Carnegie Mellon University (2013)."
             social_media_url:
                   "https://twitter.com/hhua_",
             social_media_handle:
