@@ -89,6 +89,12 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/039_CollateralEfficiency_DominikHarz.png', 
             project: 'Collateral Efficiency',
             data_url: '035_fellowship_dominik_harz'
+      },
+      {
+            name:'Eddie Kago', 
+            img_url: './static/fellows/040_Kweli_Eddie.png', 
+            project: 'Kweli',
+            data_url: '040_fellowship_kweli'
       }, 
       {
             name:'Eric Chung', 
@@ -312,12 +318,6 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
             data_url: '017_fellowship_dexter'
-      }, 
-      {
-            name:'Kweli Eddie', 
-            img_url: './static/fellows/040_Kweli_Eddie.png', 
-            project: 'Kweli',
-            data_url: '040_fellowship_kweli'
       }, 
       {
             name:'', 
