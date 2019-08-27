@@ -102,7 +102,7 @@ templates['fellowship_fellows_detail'] = template({"1":function(container,depth0
     + "</div> \n			<div style=\"font-size: 18px;\">by "
     + alias4(((helper = (helper = helpers.fellow_names || (depth0 != null ? depth0.fellow_names : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"fellow_names","hash":{},"data":data}) : helper)))
     + "</div>\n		</div>\n\n"
-    + ((stack1 = (helpers.notNull || (depth0 && depth0.notNull) || alias2).call(alias1,(depth0 != null ? depth0.youtube_url : depth0),{"name":"notNull","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.youtube_url : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\n		<div style=\"margin-top: 30px; font-weight: bold; font-size: 18px\">\n			Project Description\n		</div>\n		<div style=\"margin-top: 5px;\">\n			"
     + ((stack1 = ((helper = (helper = helpers.project_description || (depth0 != null ? depth0.project_description : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"project_description","hash":{},"data":data}) : helper))) != null ? stack1 : "")
     + "\n		</div>\n		<div style=\"margin: 20px 0 10px 0; font-weight: bold; font-size: 18px\">\n			Fellows\n		</div>\n"

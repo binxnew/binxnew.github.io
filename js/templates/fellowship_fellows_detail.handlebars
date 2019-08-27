@@ -12,7 +12,7 @@
 			<div style="font-size: 18px;">by {{fellow_names}}</div>
 		</div>
 
-		{{#notNull youtube_url}}
+		{{#if youtube_url}}
 
 		<div class="justify-content-center" style="text-align: center; padding-top: 20px">
 
@@ -21,7 +21,7 @@
 			</div>
 		</div>
 
-		{{/notNull}}
+  		{{/if}}
 
 		<div style="margin-top: 30px; font-weight: bold; font-size: 18px">
 			Project Description
