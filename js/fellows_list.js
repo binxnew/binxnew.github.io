@@ -343,7 +343,7 @@ var fellowship_fellows_context = {
             project: 'Bapper',
             data_url: '037_fellowship_bapper'
       }, 
-      {
+/*      {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
@@ -391,7 +391,7 @@ var fellowship_fellows_context = {
             project: '',
             data_url: './'
       }, 
-
+*/
       ]
             
 }
