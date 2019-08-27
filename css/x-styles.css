@@ -380,7 +380,7 @@ ol.breadcrumb li a:hover {
 	max-width: 300px;
 }
 .dib-post-content {
-	margin-right: 40px;
+	width: 80%;
 }
 .dib-post-featured-image {
 	width: 100%;
