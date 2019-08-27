@@ -273,7 +273,7 @@ var fellowship_fellows_context = {
       }, 
       {
             name:'Thomas Spofford', 
-            img_url: './static/fellows/030_Enable_ ThomasSpofford.png', 
+            img_url: './static/fellows/030_Enable_ThomasSpofford.png', 
             project: 'Enable',
             data_url: '030_fellowship_enable'
      }, 
