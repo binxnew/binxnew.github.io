@@ -350,6 +350,9 @@ ol.breadcrumb li a:hover {
 	margin: 10px 0; 
 	font-weight: 500;
 }
+.dib-post {
+	margin: 0 20px;
+}
 .dib h1 {
 	font-size: 18px;
 	font-weight: 700;
@@ -377,7 +380,7 @@ ol.breadcrumb li a:hover {
 	max-width: 300px;
 }
 .dib-post-content {
-	padding-right: 20px;
+	margin-right: 40px;
 }
 .dib-post-featured-image {
 	width: 100%;
