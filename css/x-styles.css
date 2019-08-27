@@ -377,7 +377,7 @@ ol.breadcrumb li a:hover {
 	max-width: 300px;
 }
 .dib-post-content {
-	margin-right: 20px;
+	padding-right: 20px;
 }
 .dib-post-featured-image {
 	width: 100%;
