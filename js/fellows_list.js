@@ -353,12 +353,6 @@ var fellowship_fellows_context = {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: ''
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
             data_url: './'
       }, 
       {
