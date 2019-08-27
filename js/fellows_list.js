@@ -61,6 +61,12 @@ var fellowship_fellows_context = {
             data_url: '021_fellowship_proxima'
       },
       {
+            name:'Chris Hughes', 
+            img_url: './static/fellows/012_CAPeasy_Chris_Hughes.png', 
+            project: 'CAPeasy',
+            data_url: '012_fellowship_capeasy'
+      }, 
+      {
             name:'Daniel Lehnberg', 
             img_url: './static/fellows/014_Wallet713_DanielLehnberg.png', 
             project: 'Wallet 713',
@@ -270,12 +276,6 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
             data_url: '017_fellowship_dexter'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
       }, 
       {
             name:'', 
