@@ -59,8 +59,8 @@ templates['fellowship_fellows'] = template({"1":function(container,depth0,helper
     + alias4(((helper = (helper = helpers.name || (depth0 != null ? depth0.name : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"name","hash":{},"data":data}) : helper)))
     + "</h5>\n            <p class=\"card-text fellow-card-text\">"
     + alias4(((helper = (helper = helpers.project || (depth0 != null ? depth0.project : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"project","hash":{},"data":data}) : helper)))
-    + "</p>\n            <div style=\"text-align: center\">\n              <a href=\""
-    + alias4(((helper = (helper = helpers.detail_url || (depth0 != null ? depth0.detail_url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"detail_url","hash":{},"data":data}) : helper)))
+    + "</p>\n            <div style=\"text-align: center\">\n              <a href=\"./fellowship_details.html?project="
+    + alias4(((helper = (helper = helpers.data_url || (depth0 != null ? depth0.data_url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"data_url","hash":{},"data":data}) : helper)))
     + "\" class=\"btn-sm btn-primary binance-button\" style=\"text-align: center; font-size: 12px\">Details</a>\n            </div>\n          </div>\n        </div>\n      </div>\n\n"
     + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.isLast : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "");
 },"2":function(container,depth0,helpers,partials,data) {
