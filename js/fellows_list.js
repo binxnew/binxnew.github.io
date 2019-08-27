@@ -8,7 +8,7 @@ var fellowship_fellows_context = {
       }, 
       {
             name:'Alex Ramsey', 
-            img_url: './static/fellows/022_Snap_AlexRamsey.png', 
+            img_url: './static/fellows/022_Snap_AlexRamsey_600x602.png', 
             project: 'Snap',
             data_url: './022_fellowship_snap'
       }, 
