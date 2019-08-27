@@ -85,6 +85,12 @@ var fellowship_fellows_context = {
             data_url: '031_fellowship_abridged'
       },
       {
+            name:'Franco Zeoli', 
+            img_url: './static/fellows/007_Buidler_Franco Zeoli.png', 
+            project: 'Buidler',
+            data_url: '007_fellowship_buidler'
+      }, 
+      {
             name:'Hadrien Croubois', 
             img_url: './static/fellows/003_KitsuneWallet_HadrienCroubois.png', 
             project: 'Kitsune Wallet',
@@ -193,6 +199,12 @@ var fellowship_fellows_context = {
             data_url: '018_fellowship_browserBNB_BNBTextWallet'
       }, 
       {
+            name:'Patricio Palladino', 
+            img_url: './static/fellows/007_Buidler_Patricio Palladino.png', 
+            project: 'Buidler',
+            data_url: '007_fellowship_buidler'
+      }, 
+      {
             name:'Patrick McCorry', 
             img_url: './static/fellows/025_PISA_Patrick.png', 
             project: 'PISA',
@@ -263,97 +275,85 @@ var fellowship_fellows_context = {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
             img_url: './static/fellows/.png', 
             project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
+            data_url: ''
       }, 
       {
             name:'', 
