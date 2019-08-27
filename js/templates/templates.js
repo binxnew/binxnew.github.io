@@ -75,6 +75,12 @@ templates['fellowship_fellows'] = template({"1":function(container,depth0,helper
     + "\n</div>\n";
 },"useData":true});
 templates['fellowship_fellows_detail'] = template({"1":function(container,depth0,helpers,partials,data) {
+    var helper;
+
+  return "\n		<div class=\"justify-content-center\" style=\"text-align: center; padding-top: 20px\">\n\n			<div class=\"justify-content-center\" style=\"text-align: center; padding: 0 40px\">\n				<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='"
+    + container.escapeExpression(((helper = (helper = helpers.youtube_url || (depth0 != null ? depth0.youtube_url : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),{"name":"youtube_url","hash":{},"data":data}) : helper)))
+    + "' frameborder='0' allowfullscreen></iframe></div>\n			</div>\n		</div>\n\n";
+},"3":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
   return "		  <div style=\"margin-top:5px; font-weight: bold; font-style: italic\">"
@@ -95,12 +101,12 @@ templates['fellowship_fellows_detail'] = template({"1":function(container,depth0
     + alias4(((helper = (helper = helpers.project_name || (depth0 != null ? depth0.project_name : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"project_name","hash":{},"data":data}) : helper)))
     + "</div> \n			<div style=\"font-size: 18px;\">by "
     + alias4(((helper = (helper = helpers.fellow_names || (depth0 != null ? depth0.fellow_names : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"fellow_names","hash":{},"data":data}) : helper)))
-    + "</div>\n		</div>\n\n		<div class=\"justify-content-center\" style=\"text-align: center; padding-top: 20px\">\n\n			<div class=\"justify-content-center\" style=\"text-align: center; padding: 0 40px\">\n				<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='"
-    + alias4(((helper = (helper = helpers.youtube_url || (depth0 != null ? depth0.youtube_url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"youtube_url","hash":{},"data":data}) : helper)))
-    + "' frameborder='0' allowfullscreen></iframe></div>\n			</div>\n		</div>\n		<div style=\"margin-top: 30px; font-weight: bold; font-size: 18px\">\n			Project Description\n		</div>\n		<div style=\"margin-top: 5px;\">\n			"
+    + "</div>\n		</div>\n\n"
+    + ((stack1 = (helpers.notNull || (depth0 && depth0.notNull) || alias2).call(alias1,(depth0 != null ? depth0.youtube_url : depth0),{"name":"notNull","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\n		<div style=\"margin-top: 30px; font-weight: bold; font-size: 18px\">\n			Project Description\n		</div>\n		<div style=\"margin-top: 5px;\">\n			"
     + ((stack1 = ((helper = (helper = helpers.project_description || (depth0 != null ? depth0.project_description : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"project_description","hash":{},"data":data}) : helper))) != null ? stack1 : "")
     + "\n		</div>\n		<div style=\"margin: 20px 0 10px 0; font-weight: bold; font-size: 18px\">\n			Fellows\n		</div>\n"
-    + ((stack1 = helpers.each.call(alias1,(depth0 != null ? depth0.fellows : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = helpers.each.call(alias1,(depth0 != null ? depth0.fellows : depth0),{"name":"each","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\n	</div>\n\n</div>\n";
 },"useData":true});
 templates['fellowship_tabs'] = template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
