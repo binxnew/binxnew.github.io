@@ -341,7 +341,7 @@ var fellowship_fellows_context = {
             name:'Zeqing Guo', 
             img_url: './static/fellows/037_Bapper_Zeqing.png', 
             project: 'Bapper',
-            data_url: '037_fellowship_bapper'
+            data_url: '017_fellowship_dexter'
       }, 
       {
             name:'', 
