@@ -188,7 +188,7 @@ var fellowship_fellows_context = {
       }, 
       {
             name:'John Beppu', 
-            img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
+            img_url: './static/fellows/017_DEXter_John_Beppu.png', 
             project: 'Dexter',
             data_url: '017_fellowship_dexter'
       }, 
