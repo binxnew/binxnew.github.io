@@ -67,6 +67,12 @@ var fellowship_fellows_context = {
             data_url: '014_fellowship_wallet713'
       },
       {
+            name:'Deepesh Chaudhari', 
+            img_url: './static/fellows/028_Chasm_Deepesh.png', 
+            project: 'CHASM',
+            data_url: '028_fellowship_chasm'
+      }, 
+      {
             name:'Dominik Harz', 
             img_url: './static/fellows/039_CollateralEfficiency_DominikHarz.png', 
             project: 'Collateral Efficiency',
@@ -252,12 +258,6 @@ var fellowship_fellows_context = {
             img_url: './static/fellows/017_DEXter_Zak_Cole.png', 
             project: 'Dexter',
             data_url: '017_fellowship_dexter'
-      }, 
-      {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: './'
       }, 
       {
             name:'', 

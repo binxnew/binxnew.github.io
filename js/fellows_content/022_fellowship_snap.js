@@ -36,7 +36,7 @@ var fellowship_fellow_detail_context = {
             social_media_url:
                   "https://twitter.com/flexdapps",
             social_media_handle:
-                  "flexdapps",
+                  "@flexdapps",
             },
       ]
       
