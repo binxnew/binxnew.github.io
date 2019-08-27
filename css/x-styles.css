@@ -358,6 +358,10 @@ ol.breadcrumb li a:hover {
 	font-size: 22px;
 	color: #404040;
 }
+.dib-post-title {
+	font-size: 22px;
+	color: #404040;
+}
 .dib-post-author-link {
 	font-size: 16px;
 	padding: 0;
@@ -373,4 +377,8 @@ ol.breadcrumb li a:hover {
 }
 .dib-post-content {
 	margin-right: 20px;
+}
+.dib-post-featured-image {
+	max-width: 100%;
+ 	height auto; /* default */
 }
