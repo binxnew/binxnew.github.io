@@ -363,10 +363,11 @@ ol.breadcrumb li a:hover {
 	font-size: 22px;
 	color: #404040;
 }
-.dib-post .dib-post-title {
+h1.dib-post-title {
 	font-size: 22px;
 	color: #404040;
 	font-weight: 500;
+	margin-left: 0px;
 }
 .dib-post-author-link {
 	font-size: 16px;
