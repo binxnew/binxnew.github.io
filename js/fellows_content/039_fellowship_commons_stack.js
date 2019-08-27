@@ -14,11 +14,11 @@ var fellowship_fellow_detail_context = {
             fellow_bio: 
                   "Michael Zargham is the Founder and CEO of BlockScience as well as the Chief Scientist and System Architect at Commons Stack.  He has more than a decade of experience working with complex socio-economic systems modeling.  His areas of research include complex adaptive systems, Swarm Intelligence, algorithmic coordination, cyber-physical commons, conviction voting, and augmented bonding curves.  He has been instrumental in developing cadCAD.  Michael Zargham received his Ph.D. in Electrical and Systems Engineering from UPenn.", 
             social_media_url:
-                  "",
+                  "https://twitter.com/mzargham",
             social_media_handle:
-                  "",
+                  "@mzargham",
             },
-            {
+      {
             fellow_name:
                   "Stefaan Ponnet",
             fellow_bio: 
