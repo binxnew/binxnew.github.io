@@ -103,7 +103,9 @@
 }
 .home-card-icon {
 	font-size: 56px;
-	color: #F0B90A;
+	width: 75px; 
+	margin:0; 
+	padding: 0
 }
 .home-card {
 	background-color: #E6E6E6;
@@ -177,6 +179,9 @@ a:hover .front-card {
 }
 .grow-card {
 	margin: 20px 0;
+}
+.grow-icon {
+	width: 60px;
 }
 .grow-card-img {
 	height: 60px;
