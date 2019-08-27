@@ -314,10 +314,10 @@ var fellowship_fellows_context = {
             data_url: '017_fellowship_dexter'
       }, 
       {
-            name:'', 
-            img_url: './static/fellows/.png', 
-            project: '',
-            data_url: ''
+            name:'Kweli Eddie', 
+            img_url: './static/fellows/040_Kweli_Eddie.png', 
+            project: 'Kweli',
+            data_url: '040_fellowship_kweli'
       }, 
       {
             name:'', 
