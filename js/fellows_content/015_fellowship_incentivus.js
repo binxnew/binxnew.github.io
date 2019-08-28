@@ -2,7 +2,7 @@ var fellowship_fellow_detail_context = {
       project_name: 
             "Project Incentivus",
       fellow_names:
-            "Mojtaba Tefag",
+            "Mojtaba Tefagh",
       youtube_url: 
             "https://www.youtube.com/embed/Wthgl-JKFJU",
       project_description:
@@ -10,7 +10,7 @@ var fellowship_fellow_detail_context = {
       fellows: [
             {
             fellow_name:
-                  "Mojtaba Tefag",
+                  "Mojtaba Tefagh",
             fellow_bio: 
                   "Mojtaba is the author of several research articles modeling computationally demanding problems in interdisciplinary fields and the editor of a book for mathematics competitions. The theme of his research has been modeling the collective behavior and emergent properties of complex systems. Mojtaba Tefagh’s current research focus is on convex optimization applications to the incentive layer of blockchain protocols. In the future, he sees himself contributing to the decentralized consensus ecosystem as a crypto-economist and incentive engineer. Mojtaba received his B.Sc. double major in pure mathematics and computer science, summa cum laude, from Sharif University of Technology in 2015, and M.Sc. and Ph.D. degrees in electrical engineering from Stanford University in 2018 and 2019. ", 
             social_media_url:
