@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Peter Pan",
       youtube_url: 
-            "",
+            "https://www.youtube.com/embed/JhtMaSUPW-s",
       project_description:
             "Peter Pan is one of the Founders of MetaCartel.  He is a community builder who believes in the power of getting the right people to work with each other. Prior to the Web 3.0 space, he has built several online communities before and five years as a UX designer in user-facing product roles in venture-backed startups. Peter first began to learn about Web 3.0 in late 2017 and has since been deeply involved within the Ethereum ecosystem. He has contributed to various open-source community projects such as ETHPrize and EIP0.  At the Ethereum Magicians, he has helped with launching and facilitating the UX technologies and product management working group. ", 
       fellows: [
