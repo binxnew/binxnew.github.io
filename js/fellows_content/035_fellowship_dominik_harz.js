@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Dominik Harz",
       youtube_url: 
-            "",
+            "https://www.youtube.com/embed/T4q_5MHnKAY",
       project_description:
             "Decentralized stablecoins backed by cryptocurrency assts face two problems: (1) backing cryptocurrencies are highly volatile and, thus, agents need to over-collateralize their assets to account for fluctuations. In practice, this is somewhat unpredictable, and hence, the amount of collateral is often much higher than required by the system. For example, in Dai the liquidation threshold is at around 150%, whereas most CDPs provide around 400 to 600% collateral. (2) speculators have an interest to earn currency and their incentives are not necessarily aligned with keeping the coin stable.  To tackle both problems, we are researching a solution that builds on the existing Balance paper (https://eprint.iacr.org/2019/675.pdf). We want to provide an incentive to speculators to stabilize a coin and offer a reduction of collateral as a reward. The idea of the protocol is to maintain the same level of security against economically rational speculators as before, but solve both aforementioned problems with a single mechanism. The project includes development of a game theoretic model,  incentive compatibility proofs, and a proof-of-concept implementation.", 
       fellows: [

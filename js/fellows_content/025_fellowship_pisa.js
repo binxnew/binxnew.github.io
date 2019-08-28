@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Patrick McCorry, Sergi Delgado Segura",
       youtube_url: 
-            "",
+            "https://www.youtube.com/embed/z0fOAvKFiLA",
       project_description:
             "Off-chain protocols and most smart contracts have some form of online requirement for the user to watch the blockchain for on-chain events. If the event occurs, then the user may have to respond with an on-chain transaction. If the user fails to respond, then in many cases they may lose their security deposit (or balance). This clearly hampers usability of smart contracts as there is a financial penalty if the user does not obey the online assumption, but it is also not realistic for users to satisfy it. Our accountable watching service, PISA, is designed to alleviate the online requirement. Before the user goes offline they can hire us to watch for events and respond on their behalf. This brings fourth the question, why does the user trust PISA to protect them? Our goal is to be financially accountable responder such that the user can always prove our wrongdoing. With sufficient and indisputable evidence, the user can force PISA to refund them. If PISA refuses, then its security deposit will eventually be slashed.", 
       fellows: [
