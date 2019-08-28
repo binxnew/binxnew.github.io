@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Zak Cole, John Beppu",
       youtube_url: 
-            "",
+            "https://www.youtube.com/embed/YMi-vLP-zck",
       project_description:
             "When taking a position in a market, a trader will often want to see certain conditions met before pulling the trigger. Looking for these conditions manually across many markets can be tiring and error prone. DEXter is a tool which traders can use to automate this process, keep an eye on these markets, and send an alert when certain conditions arise, allowing users to save a great deal of time. People already pay for services and tools like this because it can greatly improve trading efficiency. DEXter will be open source while still providing an intuitive and excellent user experience.", 
       fellows: [

@@ -4,7 +4,7 @@ var fellowship_fellow_detail_context = {
       fellow_names:
             "Ravid Rosen-Tai",
       youtube_url: 
-            "",
+            "https://www.youtube.com/embed/ORV2Kas0LyE",
       project_description:
             "Grinbox provides a simple way for parties to exchange transaction slates as part of the interactive process of building a valid Grin transaction.  Unlike other blockchains, Grin (and Mimblewimble in general) mandates that the 2 (or more) parties involved in a transaction have to interact with each other in the process of building a transaction. Only a transaction signed by all parties is deemed valid and can be broadcasted to peers and recorded on the blockchain. However, Mimblewimble does not prescribe how the parties will communicate, and Grin layer 1 does not provide any dedicated tools to accomplish that. This is where Grinbox comes in: it provides a service where anyone transacting in Grin can exchange “slates”, which are the building blocks of a transaction, with anyone else, and do so anonymously and end-to-end encrypted.", 
       fellows: [
